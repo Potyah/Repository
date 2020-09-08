@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlackAndWhiteConversion/BlackAndWhiteConversion.iml" filepath="$PROJECT_DIR$/BlackAndWhiteConversion/BlackAndWhiteConversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Blur/Blur.iml" filepath="$PROJECT_DIR$/Blur/Blur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Range/Range.iml" filepath="$PROJECT_DIR$/Range/Range.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Repository.iml" filepath="$PROJECT_DIR$/Repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shapes/Shapes.iml" filepath="$PROJECT_DIR$/Shapes/Shapes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorts/Sorts.iml" filepath="$PROJECT_DIR$/Sorts/Sorts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vector/Vector.iml" filepath="$PROJECT_DIR$/Vector/Vector.iml" />
+    </modules>
+  </component>
+</project>
